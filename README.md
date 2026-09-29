@@ -28,3 +28,10 @@ This project is a simple personal task manager built with Laravel. It allows use
 7. If the user deletes a task, the controller removes it from the database and refreshes the list.
 8. The page updates dynamically according to the latest saved data in the database.
 
+   <img width="1364" height="675" alt="image" src="https://github.com/user-attachments/assets/7c9fafb8-bcac-434e-ba8c-cc0bd21e853e" />
+   <img width="1365" height="674" alt="image" src="https://github.com/user-attachments/assets/0cc5283c-cdcc-46d5-8aac-0c4ea69c4d92" />
+<img width="1356" height="672" alt="image" src="https://github.com/user-attachments/assets/72b36cae-bcbf-48ad-b54f-fee11feb8da5" />
+<img width="1363" height="671" alt="image" src="https://github.com/user-attachments/assets/750e86a0-5ce4-4825-8416-9f239320f825" />
+
+
+
